@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Budget Manager/task/build/
+/Budget Manager/task/out/
+/Budget Manager/task/out/production/classes/
+/Topics/ArrayList/Find the nearest number/out/
+/Topics/ArrayList/Find the nearest number/out/production/classes/
+/Topics/The Collections Framework overview/Squaring numbers/out/
+/Topics/The Collections Framework overview/Squaring numbers/out/production/classes/

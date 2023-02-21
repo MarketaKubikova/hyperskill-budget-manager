@@ -1,0 +1,8 @@
+
+0
+java:S1220""Move this file to a named package.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Ηµν‘8ƒβεγ0
+h
+java:S1659"FDeclare "lastLower" and all following declarations on a separate line.(ΐσνΖωÿÿÿÿ8‹βεγ0
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(•«·ήώÿÿÿÿ8―βεγ0
